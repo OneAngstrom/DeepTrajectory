@@ -6,6 +6,10 @@ DeepTrajectory is a deep recurrent neural network based on gated recurrent units
 
 This repository contains the source code of the model together with helper functions to measure the performance during training and validation.
 
+## Data-set availability
+
+The data-set for training and testing can be downloaded from https://zenodo.org/record/1183354. This webpage contains links to the raw PDB files of all trajectories used in this work, the feature table in CSV format and the cross-validation assignment as a CSV file. 
+
 
 ## Usage
 
