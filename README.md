@@ -13,5 +13,6 @@ The data-set for training and testing can be downloaded from https://zenodo.org/
 
 ## Usage
 
-Dependencies: tensorflow (version 1.0.0), scikit-learn, numpy, pandas
+The following python dependencies are required to run the code: tensorflow (version 1.0.0), scikit-learn, numpy, pandas.
 
+The ipython notebook in src/training_example.ipynb shows an example how to train the model. Please make sure that you have downloaded and extracted the CSV data to the sub folder data/.
