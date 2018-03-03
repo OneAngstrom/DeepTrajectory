@@ -4,6 +4,8 @@
 
 DeepTrajectory is a deep recurrent neural network based on gated recurrent units to identify improved conformational states from refinement trajectory data in order to assist accurate protein structure prediction.
 
+The pre-print is available on [bioRxiv](https://www.biorxiv.org/content/early/2018/03/03/275008).
+
 This repository contains the source code of the model together with helper functions to measure the performance during training and validation.
 
 ## Data-set availability [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1183354.svg)](https://doi.org/10.5281/zenodo.1183354)
